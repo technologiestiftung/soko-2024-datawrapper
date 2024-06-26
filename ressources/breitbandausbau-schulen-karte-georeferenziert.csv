@@ -1,0 +1,127 @@
+﻿LAT,LON,Bezirk,Schule,Straße,PLZ,Ort,Adresse,Aktueller Status,Standort beauftragt?,"Begehung durgeführt am:
+[Datum]","Tiefbau abgeschlossen am: 
+[Datum]","Aktive Technik 
+verbaut 
+am: 
+[Datum]","Anschluss nutzbar? 
+[Ja / Nein]"
+52.5259779,13.3337066,Mitte,Berlin-Kolleg,Turmstr. 75,10115,Berlin,Turmstr. 75 10115 Berlin,Aktive Technik verbaut,Ja,15.07.22,21.08.23,28.09.23,Nein
+52.5365274,13.4009448,Mitte,Grundschule am Arkonaplatz,Ruppiner Str. 47-48,10115,Berlin,Ruppiner Str. 47-48 10115 Berlin,Aktive Technik verbaut,Ja,13.07.22,23.11.22,23.08.23,Nein
+52.532807,13.3910825,Mitte,Papageno-Grundschule,Bergstr. 58,10115,Berlin,Bergstr. 58 10115 Berlin,Anschluss nutzbar,Ja,05.08.22,17.07.23,25.10.23,Ja
+52.5266679,13.4018142,Mitte,Kastanienbaum-Grundschule,Gipsstr. 23 A,10119,Berlin,Gipsstr. 23 A 10119 Berlin,Anschluss nutzbar,Ja,11.07.22,25.08.22,27.03.24,Ja
+52.5273403,13.38053,Mitte,Grundschule Neues Tor,Hannoversche Str. 20,10115,Berlin,Hannoversche Str. 20 10115 Berlin,Anschluss nutzbar,Ja,05.08.22,07.03.23,11.10.23,Ja
+52.5129879,13.3829654,Mitte,Grundschule am Brandenburger Tor,Wilhelmstr. 52,10117,Berlin,Wilhelmstr. 52 10117 Berlin,Anschluss nutzbar,Ja,27.06.22,17.02.23,12.04.23,Ja
+52.5069791,13.4087815,Mitte,City-Grundschule,Sebastianstr. 57,10179,Berlin,Sebastianstr. 57 10179 Berlin,Anschluss nutzbar,Ja,31.08.22,30.08.23,20.10.23,Ja
+52.5302996,13.353126,Mitte,Kurt-Tucholsky-Grundschule,Rathenower Str. 18,10559,Berlin,Rathenower Str. 18 10559 Berlin,Anschluss nutzbar,Ja,09.08.22,25.10.23,09.01.24,Ja
+52.5316399,13.3548496,Mitte,Kurt-Tucholsky-Grundschule,Kruppstr. 14b,10559,Berlin,Kruppstr. 14b 10559 Berlin,Aktive Technik verbaut,Ja,09.08.22,12.07.23,21.12.23,Nein
+52.5181124,13.3560024,Mitte,Anne-Frank-Grundschule,Paulstr. 20 B,10557,Berlin,Paulstr. 20 B 10557 Berlin,Anschluss nutzbar,Ja,12.07.22,17.01.23,11.10.23,Ja
+52.5209825,13.4362021,Friedrichshain-Kreuzberg,Spartacus-Grundschule,Friedenstr. 40-45,10249,Berlin,Friedenstr. 40-45 10249 Berlin,Aktive Technik in Planung,Ja,04.07.22,21.12.22,,Nein
+52.5216604,13.43876,Friedrichshain-Kreuzberg,Spartacus-Grundschule,Pufendorfstr. 10,10249,Berlin,Pufendorfstr. 10 10249 Berlin,Aktive Technik verbaut,Ja,01.12.22,25.08.23,06.03.24,Nein
+52.5242203,13.4543611,Friedrichshain-Kreuzberg,Hausburg-Grundschule,Hausburgstr. 20,10249,Berlin,Hausburgstr. 20 10249 Berlin,Anschluss nutzbar,Ja,13.01.23,20.01.23,11.05.23,Ja
+52.5237145,13.4557315,Friedrichshain-Kreuzberg,Hausburg-Grundschule,Otto-Ostrowski-Str. 44,10249,Berlin,Otto-Ostrowski-Str. 44 10249 Berlin,Aktive Technik in Planung,Ja,16.02.23,26.04.24,,Nein
+52.5186237,13.4586449,Friedrichshain-Kreuzberg,Justus-von-Liebig-Grundschule,Liebigstr. 18A,10247,Berlin,Liebigstr. 18A 10247 Berlin,Aktive Technik in Planung,Ja,01.12.22,22.04.24,,Nein
+52.5193785,13.4708425,Friedrichshain-Kreuzberg,Pettenkofer-Grundschule,Pettenkoferstr. 20-24,10247,Berlin,Pettenkoferstr. 20-24 10247 Berlin,Aktive Technik in Planung,Ja,29.11.22,29.06.23,,Nein
+52.5155669,13.4500529,Friedrichshain-Kreuzberg,Ludwig-Hoffmann-Grundschule,Lasdehner Str. 21-23,10243,Berlin,Lasdehner Str. 21-23 10243 Berlin,Begehung durchgeführt,Ja,16.02.23,,,Nein
+52.5136231,13.4733287,Friedrichshain-Kreuzberg,Grundschule am Traveplatz,Jessnerstr. 24-32,10247,Berlin,Jessnerstr. 24-32 10247 Berlin,Begehung durchgeführt,Ja,10.11.22,,,Nein
+52.5086844,13.4650114,Friedrichshain-Kreuzberg,Zille-Grundschule,Boxhagener Str. 46,10245,Berlin,Boxhagener Str. 46 10245 Berlin,Begehung durchgeführt,Ja,10.11.22,,,Nein
+52.492908,13.4761879,Friedrichshain-Kreuzberg,Thalia-Grundschule,Alt-Stralau 34,10245,Berlin,Alt-Stralau 34 10245 Berlin,Aktive Technik verbaut,Ja,10.11.22,29.06.23,25.10.23,Nein
+52.5538375,13.4366243,Pankow,Schule am Hamburger Platz (Grundschule),Gustav-Adolf-Str. 21,13086,Berlin,Gustav-Adolf-Str. 21 13086 Berlin,Anschluss nutzbar,Ja,24.05.22,15.02.23,14.03.23,Ja
+52.5310036,13.42406,Pankow,Heinrich-Roller-Grundschule,Heinrich-Roller-Str. 18,10405,Berlin,Heinrich-Roller-Str. 18 10405 Berlin,Anschluss nutzbar,Ja,09.08.22,28.01.23,24.05.23,Ja
+52.5376487,13.4143459,Pankow,Grundschule am Kollwitzplatz,Knaackstr. 67,10435,Berlin,Knaackstr. 67 10435 Berlin,Anschluss nutzbar,Ja,03.08.22,10.03.23,11.01.24,Ja
+52.536028,13.4256762,Pankow,Grundschule an der Marie,Christburger Str. 7,10405,Berlin,Christburger Str. 7 10405 Berlin,Anschluss nutzbar,Ja,28.06.22,28.11.22,23.01.23,Ja
+52.5334721,13.4321896,Pankow,Homer-Grundschule,Pasteurstr. 10-12,10407,Berlin,Pasteurstr. 10-12 10407 Berlin,Anschluss nutzbar,Ja,27.07.22,27.09.23,24.10.23,Ja
+52.5349001,13.4395001,Pankow,Bötzow-Grundschule,John-Schehr-Str. 38,10407,Berlin,John-Schehr-Str. 38 10407 Berlin,Anschluss nutzbar,Ja,23.08.22,07.02.23,15.03.23,Ja
+52.5417076,13.4300416,Pankow,Grundschule am Planetarium,Ella-Kay-Str. 47,10405,Berlin,Ella-Kay-Str. 47 10405 Berlin,Aktive Technik verbaut,Ja,27.07.22,06.06.23,19.03.24,Nein
+52.5467163,13.4148931,Pankow,Thomas-Mann-Grundschule,Greifenhagener Str. 58,10437,Berlin,Greifenhagener Str. 58 10437 Berlin,Aktive Technik verbaut,Ja,29.06.22,16.08.23,20.09.23,Nein
+52.6149509,13.4962945,Pankow,Grundschule am Hohen Feld,Bedeweg 1,13125,Berlin,Bedeweg 1 13125 Berlin,Anschluss nutzbar,Ja,13.07.22,16.12.22,24.02.23,Ja
+52.5471554,13.4060491,Pankow,Schule am Falkplatz (Grundschule),Gleimstr. 49,10437,Berlin,Gleimstr. 49 10437 Berlin,Anschluss nutzbar,Ja,29.06.22,01.11.22,04.07.23,Ja
+52.5083269,13.3036973,Charlottenburg-Wilmersdorf,Charlotte-Wolff-Kolleg,Pestalozzistr. 40-41,10627,Berlin,Pestalozzistr. 40-41 10627 Berlin,Aktive Technik in Planung,Ja,01.09.22,27.03.24,,Nein
+52.4278731,13.3159792,Charlottenburg-Wilmersdorf,Eichendorff-Grundschule,Goethestr. 19,10625,Berlin,Goethestr. 19 10625 Berlin,Begehung durchgeführt,Ja,01.09.22,,,Nein
+52.5093052,13.2951771,Charlottenburg-Wilmersdorf,Lietzensee-Grundschule,Witzlebenstr. 34-35,14057,Berlin,Witzlebenstr. 34-35 14057 Berlin,Anschluss nutzbar,Ja,11.08.22,03.11.23,30.04.24,Ja
+52.5035654,13.3199513,Charlottenburg-Wilmersdorf,Joan-Miró-Grundschule,Bleibtreustr. 43,10623,Berlin,Bleibtreustr. 43 10623 Berlin,Anschluss nutzbar,Ja,29.09.22,09.08.23,09.11.23,Ja
+52.5185311,13.2778126,Charlottenburg-Wilmersdorf,Dietrich-Bonhoeffer-Grundschule,Spandauer Damm 205-215,14050,Berlin,Spandauer Damm 205-215 14050 Berlin,Anschluss nutzbar,Ja,14.10.22,08.08.23,15.11.23,Ja
+52.5019136,13.2572473,Charlottenburg-Wilmersdorf,Wald-Grundschule,Waldschulallee 83-93,14055,Berlin,Waldschulallee 83-93 14055 Berlin,Aktive Technik in Planung,Ja,07.10.22,07.08.23,,Nein
+52.5149753,13.3154219,Charlottenburg-Wilmersdorf,Ludwig-Cauer-Grundschule,Cauerstr. 36-38,10587,Berlin,Cauerstr. 36-38 10587 Berlin,Begehung durchgeführt,Ja,09.08.22,,,Nein
+52.5235385,13.3032954,Charlottenburg-Wilmersdorf,Mierendorff-Grundschule,Mierendorffstr. 20-24,10589,Berlin,Mierendorffstr. 20-24 10589 Berlin,Begehung durchgeführt,Ja,14.10.22,,,Nein
+52.5393057,13.2872104,Charlottenburg-Wilmersdorf,Erwin-von-Witzleben-Grundschule,Halemweg 34,13627,Berlin,Halemweg 34 13627 Berlin,Anschluss nutzbar,Ja,29.09.22,08.02.23,27.09.23,Ja
+52.5390013,13.301226,Charlottenburg-Wilmersdorf,Helmuth-James-von-Moltke-Grundschule,Heckerdamm 221,13627,Berlin,Heckerdamm 221 13627 Berlin,Begehung durchgeführt,Ja,01.09.22,,,Nein
+52.5391903,13.2049919,Spandau,Volkshochschule Spandau,Carl-Schurz-Straße 59,13597,Berlin,Carl-Schurz-Straße 59 13597 Berlin,Aktive Technik in Planung,Ja,22.07.22,12.12.23,,Nein
+52.530153,13.2068615,Spandau,Ernst-Ludwig-Heim-Grundschule,Grunewaldstr. 8,13597,Berlin,Grunewaldstr. 8 13597 Berlin,Anschluss nutzbar,Ja,22.07.22,09.12.22,15.02.24,Ja
+52.5583745,13.1990823,Spandau,Grundschule am Eichenwald,Gaismannshofer Weg 2,13587,Berlin,Gaismannshofer Weg 2 13587 Berlin,Begehung durchgeführt,Ja,26.07.22,,,Nein
+52.538572,13.1803669,Spandau,Klosterfeld-Grundschule,Seegefelder Str. 125,13583,Berlin,Seegefelder Str. 125 13583 Berlin,Anschluss nutzbar,Ja,05.08.22,03.02.23,10.01.24,Ja
+52.5203048,13.1930269,Spandau,Christoph-Földerich-Grundschule,Földerichplatz 5,13595,Berlin,Földerichplatz 5 13595 Berlin,Aktive Technik verbaut,Ja,28.07.22,03.03.23,03.05.24,Nein
+52.5512793,13.1771818,Spandau,Siegerland-Grundschule,Hermann-Schmidt-Weg 4,13589,Berlin,Hermann-Schmidt-Weg 4 13589 Berlin,Begehung durchgeführt,Ja,19.10.22,,,Nein
+52.5479593,13.2048092,Spandau,Lynar-Grundschule,Lutherstr. 19-20,13585,Berlin,Lutherstr. 19-20 13585 Berlin,Aktive Technik in Planung,Ja,29.07.22,20.03.23,,Nein
+52.5302371,13.192002,Spandau,Konkordia-Grundschule,Elsflether Weg 26,13581,Berlin,Elsflether Weg 26 13581 Berlin,Anschluss nutzbar,Ja,26.07.22,22.02.23,18.04.24,Ja
+52.525603,13.1799834,Spandau,Grundschule am Birkenhain,Seeburger Str. 59,13581,Berlin,Seeburger Str. 59 13581 Berlin,Anschluss nutzbar,Ja,28.07.22,09.12.22,15.04.24,Ja
+52.5459856,13.2717647,Spandau,Robert-Reinick-Grundschule,Jungfernheideweg 33-48,13629,Berlin,Jungfernheideweg 33-48 13629 Berlin,Anschluss nutzbar,Ja,26.07.22,21.02.23,18.01.24,Ja
+52.4301707,13.3150074,Steglitz-Zehlendorf,Volkshochschule Steglitz-Zehlendorf,Goethestraße 9-11,12207,Berlin,Goethestraße 9-11 12207 Berlin,Aktive Technik verbaut ohne IHVK,Ja,05.09.22,07.03.24,29.04.24,Nein
+52.4366461,13.2562114,Steglitz-Zehlendorf,Nord-Grundschule,Potsdamer Str. 7,14163,Berlin,Potsdamer Str. 7 14163 Berlin,Anschluss nutzbar,Ja,21.06.22,07.11.23,04.12.23,Ja
+52.4192374,13.257763,Steglitz-Zehlendorf,Süd-Grundschule,Claszeile 56,14165,Berlin,Claszeile 56 14165 Berlin,Aktive Technik verbaut,Ja,20.05.22,13.06.23,20.12.23,Nein
+52.4190565,13.2585886,Steglitz-Zehlendorf,Süd-Grundschule,Claszeile 57,14165,Berlin,Claszeile 57 14165 Berlin,Aktive Technik verbaut,Ja,20.05.22,14.06.23,12.01.24,Nein
+52.4318274,13.2126842,Steglitz-Zehlendorf,Johannes-Tews-Grundschule,Wasgenstr. 50,14129,Berlin,Wasgenstr. 50 14129 Berlin,Anschluss nutzbar,Ja,16.08.22,14.04.23,21.12.23,Ja
+52.4307611,13.2155093,Steglitz-Zehlendorf,Johannes-Tews-Grundschule,Tewsstraße 16A ,14129,Berlin,Tewsstraße 16A  14129 Berlin,In Planung,Ja,,,,Nein
+52.4579133,13.2842131,Steglitz-Zehlendorf,Erich-Kästner-Grundschule,Bachstelzenweg 2-8,14195,Berlin,Bachstelzenweg 2-8 14195 Berlin,Anschluss nutzbar,Ja,24.06.22,29.03.23,14.12.23,Ja
+52.41477,13.1467749,Steglitz-Zehlendorf,Conrad-Schule (Grundschule),Schulstr. 4,14109,Berlin,Schulstr. 4 14109 Berlin,Begehung durchgeführt,Ja,07.09.22,,,Nein
+52.4431028,13.2761119,Steglitz-Zehlendorf,Mühlenau-Grundschule,Molsheimer Str. 7,14195,Berlin,Molsheimer Str. 7 14195 Berlin,Aktive Technik verbaut,Ja,23.05.22,10.08.23,25.01.24,Nein
+52.445743,13.2472386,Steglitz-Zehlendorf,Zinnowwald-Grundschule,Wilskistr. 78,14163,Berlin,Wilskistr. 78 14163 Berlin,Aktive Technik verbaut,Ja,18.10.22,17.05.23,08.12.23,Nein
+52.5033927,13.3411059,Tempelhof-Schöneberg,Kolleg Schöneberg,Nürnberger Str. 63,10787,Berlin,Nürnberger Str. 63 10787 Berlin,Begehung durchgeführt,Ja,27.01.23,,,Nein
+52.4784092,13.3574585,Tempelhof-Schöneberg,Volkshochschule Tempelhof-Schöneberg,Tempelhofer Weg 62,10829,Berlin,Tempelhofer Weg 62 10829 Berlin,Begehung durchgeführt,Ja,07.02.23,,,Nein
+52.4949594,13.356272,Tempelhof-Schöneberg,Spreewald-Grundschule,Pallasstr. 15,10781,Berlin,Pallasstr. 15 10781 Berlin,Begehung durchgeführt,Ja,19.09.22,,,Nein
+52.4984478,13.3421803,Tempelhof-Schöneberg,Finow-Grundschule,Welserstr. 16-22,10777,Berlin,Welserstr. 16-22 10777 Berlin,APL installiert,Ja,12.09.22,02.12.22,,Nein
+52.4954841,13.3482767,Tempelhof-Schöneberg,Werbellinsee-Grundschule,Luitpoldstr. 38,10781,Berlin,Luitpoldstr. 38 10781 Berlin,Begehung durchgeführt,Ja,12.09.22,,,Nein
+52.4841962,13.3677549,Tempelhof-Schöneberg,Havelland-Grundschule,Kolonnenstr. 30 - 30a,10829,Berlin,Kolonnenstr. 30 - 30a 10829 Berlin,Begehung durchgeführt,Ja,17.10.22,,,Nein
+52.4799688,13.3384592,Tempelhof-Schöneberg,Sternberg-Grundschule,Mettestr. 8,10825,Berlin,Mettestr. 8 10825 Berlin,Begehung durchgeführt,Ja,10.10.22,,,Nein
+52.4582322,13.3635317,Tempelhof-Schöneberg,Lindenhof-Grundschule,Reglinstr. 29,12105,Berlin,Reglinstr. 29 12105 Berlin,Begehung durchgeführt,Ja,16.02.23,,,Nein
+52.4843673,13.3560967,Tempelhof-Schöneberg,Teltow-Grundschule,Feurigstr. 57,10827,Berlin,Feurigstr. 57 10827 Berlin,Begehung durchgeführt,Ja,17.10.22,,,Nein
+52.4941763,13.3432045,Tempelhof-Schöneberg,Scharmützelsee-Grundschule,Hohenstaufenstr. 49,10779,Berlin,Hohenstaufenstr. 49 10779 Berlin,Begehung durchgeführt,Ja,12.09.22,,,Nein
+52.4849081,13.4315633,Neukölln,Rixdorfer Schule (Grundschule),Donaustr. 120,12043,Berlin,Donaustr. 120 12043 Berlin,Anschluss nutzbar,Ja,25.07.22,13.10.23,31.10.23,Ja
+52.4868722,13.4259525,Neukölln,Theodor-Storm-Schule (Grundschule),Hobrechtstr. 76,12043,Berlin,Hobrechtstr. 76 12043 Berlin,Anschluss nutzbar,Ja,25.07.22,17.10.22,08.09.23,Ja
+52.484251,13.441004,Neukölln,Elbe-Schule (Grundschule),Elbestr. 11,12045,Berlin,Elbestr. 11 12045 Berlin,Anschluss nutzbar,Ja,25.07.22,19.04.23,26.09.23,Ja
+52.4763094,13.4234085,Neukölln,Karl-Weise-Schule (Grundschule),Weisestr. 20,12049,Berlin,Weisestr. 20 12049 Berlin,Anschluss nutzbar,Ja,01.08.22,05.05.23,09.10.23,Ja
+52.4781448,13.4185661,Neukölln,Karl-Weise-Schule (Grundschule),Lichtenrader Straße 4A,12049,Berlin,Lichtenrader Straße 4A 12049 Berlin,Aktive Technik verbaut,Ja,18.07.22,23.09.22,01.03.24,Nein
+52.4800889,13.430646,Neukölln,Hermann-Boddin-Schule (Grundschule),Boddinstr. 55,12053,Berlin,Boddinstr. 55 12053 Berlin,Aktive Technik verbaut,Ja,11.07.22,16.09.22,07.05.24,Nein
+52.4825702,13.421501,Neukölln,Karlsgarten-Schule (Grundschule),Karlsgartenstr. 7,12049,Berlin,Karlsgartenstr. 7 12049 Berlin,Anschluss nutzbar,Ja,15.08.22,28.04.23,19.09.23,Ja
+52.4753637,13.4331299,Neukölln,Regenbogen-Schule (Grundschule),Morusstr. 32,12053,Berlin,Morusstr. 32 12053 Berlin,Anschluss nutzbar,Ja,25.07.22,21.07.23,23.08.23,Ja
+52.4108217,13.4853491,Neukölln,Schliemann-Schule (Grundschule),Groß-Ziethener Chaussee 81,12355,Berlin,Groß-Ziethener Chaussee 81 12355 Berlin,Begehung durchgeführt,Ja,08.08.22,,,Nein
+52.4717574,13.4357615,Neukölln,Peter-Petersen-Schule (Grundschule),Jonasstr. 15,12053,Berlin,Jonasstr. 15 12053 Berlin,Anschluss nutzbar,Ja,01.08.22,05.05.23,20.09.23,Ja
+52.468068,13.4838796,Treptow-Köpenick,Treptow-Kolleg,Kiefholzstr. 274,12437,Berlin,Kiefholzstr. 274 12437 Berlin,APL installiert,Ja,22.07.22,07.05.24,,Nein
+52.4930001,13.4520992,Treptow-Köpenick,Bouché-Schule (Grundschule),Bouchestr. 5,12435,Berlin,Bouchestr. 5 12435 Berlin,Anschluss nutzbar,Ja,16.05.22,14.07.22,25.07.23,Ja
+52.4684755,13.4779479,Treptow-Köpenick,Schule am Heidekampgraben (Grundschule),Hänselstr. 14,12437,Berlin,Hänselstr. 14 12437 Berlin,APL installiert,Ja,22.07.22,07.05.24,,Nein
+52.4619326,13.4885221,Treptow-Köpenick,Sonnenblumen-Schule (Grundschule),Radenzer Str. 16,12437,Berlin,Radenzer Str. 16 12437 Berlin,Anschluss nutzbar,Ja,01.07.22,16.05.23,29.11.23,Ja
+52.4400717,13.4975282,Treptow-Köpenick,Schule am Ginkobaum (Grundschule),Springbornstr. 250,12487,Berlin,Springbornstr. 250 12487 Berlin,Begehung durchgeführt,Ja,02.08.22,,,Nein
+52.4467122,13.5105237,Treptow-Köpenick,Melli-Beese-Schule (Grundschule),Engelhardstr. 18,12487,Berlin,Engelhardstr. 18 12487 Berlin,Anschluss nutzbar,Ja,25.07.22,14.02.23,01.02.24,Ja
+52.4544878,13.515246,Treptow-Köpenick,Schule an der alten Feuerwache (Grundschule),Schnellerstr. 31,12439,Berlin,Schnellerstr. 31 12439 Berlin,Anschluss nutzbar,Ja,16.05.22,14.07.22,29.03.23,Ja
+52.438443,13.5438997,Treptow-Köpenick,Heide-Schule (Grundschule),Florian-Geyer-Str. 87,12489,Berlin,Florian-Geyer-Str. 87 12489 Berlin,Begehung durchgeführt,Ja,02.08.22,,,Nein
+52.4424757,13.5519493,Treptow-Köpenick,Heide-Schule (Grundschule),Waldstr. 7,12489,Berlin,Waldstr. 7 12489 Berlin,Aktive Technik verbaut ohne IHVK,Ja,02.08.22,15.02.23,12.01.24,Nein
+52.4186282,13.5378599,Treptow-Köpenick,Schule am Berg (Grundschule),Köpenicker Str. 31,12524,Berlin,Köpenicker Str. 31 12524 Berlin,Anschluss nutzbar,Ja,01.07.22,28.11.22,29.11.23,Ja
+52.5366621,13.5387145,Marzahn-Hellersdorf,Victor-Klemperer-Kolleg,Martha-Arendsee-Str. 15,12681,Berlin,Martha-Arendsee-Str. 15 12681 Berlin,Anschluss nutzbar,Ja,14.06.22,10.10.22,16.12.22,Ja
+52.5713199,13.5762928,Marzahn-Hellersdorf,Paavo-Nurmi-Grundschule,Schorfheidestr. 42,12689,Berlin,Schorfheidestr. 42 12689 Berlin,Anschluss nutzbar,Ja,21.06.22,29.09.23,16.01.24,Ja
+52.567625,13.5694169,Marzahn-Hellersdorf,Selma-Lagerlöf-Grundschule,Wörlitzer Str. 31,12689,Berlin,Wörlitzer Str. 31 12689 Berlin,Anschluss nutzbar,Ja,02.08.22,29.09.23,22.11.23,Ja
+52.5659445,13.5559595,Marzahn-Hellersdorf,Falken-Grundschule,Geraer Ring 2,12689,Berlin,Geraer Ring 2 12689 Berlin,Anschluss nutzbar,Ja,10.05.22,09.11.22,16.12.22,Ja
+52.5635245,13.5717435,Marzahn-Hellersdorf,Ebereschen-Grundschule,Borkheider Str. 28,12689,Berlin,Borkheider Str. 28 12689 Berlin,Anschluss nutzbar,Ja,21.06.22,29.09.23,14.11.23,Ja
+52.5531438,13.564028,Marzahn-Hellersdorf,Karl-Friedrich-Friesen-Grundschule,Max-Herrmann-Str. 5,12687,Berlin,Max-Herrmann-Str. 5 12687 Berlin,Begehung durchgeführt,Ja,18.07.22,,,Nein
+52.5513164,13.5822782,Marzahn-Hellersdorf,Wilhelm-Busch-Grundschule,Parsteiner Ring 24/46,12679,Berlin,Parsteiner Ring 24/46 12679 Berlin,Aktive Technik verbaut,Ja,14.06.22,29.09.23,02.11.23,Nein
+52.5508466,13.5652551,Marzahn-Hellersdorf,Grundschule am Bürgerpark,Jan-Petersen-Str. 18 B,12679,Berlin,Jan-Petersen-Str. 18 B 12679 Berlin,Begehung durchgeführt,Ja,14.06.22,,,Nein
+52.5481706,13.5517122,Marzahn-Hellersdorf,Peter-Pan-Grundschule,Stolzenhagener Str. 9,12679,Berlin,Stolzenhagener Str. 9 12679 Berlin,Begehung durchgeführt,Ja,13.05.22,,,Nein
+52.5396962,13.5658409,Marzahn-Hellersdorf,Grundschule an der Mühle,Kienbergstr. 59,12685,Berlin,Kienbergstr. 59 12685 Berlin,Anschluss nutzbar,Ja,14.06.22,13.03.23,16.08.23,Ja
+52.5292385,13.4672025,Lichtenberg,Sonnenuhr-Schule (Grundschule),Franz-Jacob-Str. 33,10369,Berlin,Franz-Jacob-Str. 33 10369 Berlin,Anschluss nutzbar,Ja,26.08.22,24.11.23,16.02.24,Ja
+52.5289103,13.4821749,Lichtenberg,Schule am Roederplatz (Grundschule),Bernhard-Bästlein-Str. 22,10367,Berlin,Bernhard-Bästlein-Str. 22 10367 Berlin,Begehung durchgeführt,Ja,08.08.22,,,Nein
+52.5222016,13.4829858,Lichtenberg,Schule im Gutspark (Grundschule),Josef-Orlopp-Str. 20,10367,Berlin,Josef-Orlopp-Str. 20 10367 Berlin,Anschluss nutzbar,Ja,02.09.22,20.02.23,13.06.23,Ja
+52.5169271,13.4950339,Lichtenberg,Schule auf dem lichten Berg (Grundschule),Atzpodienstr. 19,10365,Berlin,Atzpodienstr. 19 10365 Berlin,Begehung durchgeführt,Ja,11.05.22,,,Nein
+52.5131336,13.4976178,Lichtenberg,Schule auf dem lichten Berg (Grundschule),Siegfriedstraße 208-210,10365,Berlin,Siegfriedstraße 208-210 10365 Berlin,Begehung durchgeführt,Ja,18.08.22,,,Nein
+52.5110581,13.531403,Lichtenberg,Adam-Ries-Schule (Grundschule),Alt-Friedrichsfelde 66,10315,Berlin,Alt-Friedrichsfelde 66 10315 Berlin,Begehung durchgeführt,Ja,08.09.22,,,Nein
+52.5096143,13.4857715,Lichtenberg,Hermann-Gmeiner-Schule (Grundschule),Harnackstr. 17,10365,Berlin,Harnackstr. 17 10365 Berlin,Aktive Technik verbaut,Ja,06.09.22,05.03.24,25.04.24,Nein
+52.5095538,13.5016634,Lichtenberg,Robinson-Schule (Grundschule),Wönnichstr. 7,10317,Berlin,Wönnichstr. 7 10317 Berlin,Anschluss nutzbar,Ja,08.09.22,27.05.23,28.08.23,Ja
+52.508118,13.5165164,Lichtenberg,Bürgermeister-Ziethen-Schule (Grundschule),Massower Str. 39,10315,Berlin,Massower Str. 39 10315 Berlin,Anschluss nutzbar,Ja,08.08.22,06.06.23,28.08.23,Ja
+52.5643159,13.499924,Lichtenberg,Schule im Ostseekarree (Grundschule),Barther Str. 27,13051,Berlin,Barther Str. 27 13051 Berlin,Aktive Technik verbaut,Ja,02.09.22,19.09.23,11.10.23,Nein
+52.5782731,13.2846728,Reinickendorf,Havelmüller-Grundschule,Namslaustr. 49-57,13507,Berlin,Namslaustr. 49-57 13507 Berlin,Begehung durchgeführt,Ja,17.08.22,,,Nein
+52.5622247,13.3554275,Reinickendorf,Grundschule am Schäfersee,Baseler Str. 2-6,13407,Berlin,Baseler Str. 2-6 13407 Berlin,Anschluss nutzbar,Ja,03.08.22,13.09.23,26.01.24,Ja
+52.5636024,13.3776905,Reinickendorf,Reginhard-Grundschule,Letteallee 39-41,13409,Berlin,Letteallee 39-41 13409 Berlin,Begehung durchgeführt,Ja,24.08.22,,,Nein
+52.5738349,13.3430082,Reinickendorf,Till-Eulenspiegel-Grundschule,Humboldtstr. 8-13,13407,Berlin,Humboldtstr. 8-13 13407 Berlin,Aktive Technik in Planung,Ja,05.10.22,23.02.24,,Nein
+52.5755105,13.3662743,Reinickendorf,Kolumbus-Grundschule,Büchsenweg 23 A,13409,Berlin,Büchsenweg 23 A 13409 Berlin,APL installiert,Ja,14.09.22,02.11.23,,Nein
+52.5696602,13.3733572,Reinickendorf,Hausotter-Grundschule,Hausotterplatz 4,13409,Berlin,Hausotterplatz 4 13409 Berlin,Aktive Technik verbaut ohne IHVK,Ja,09.11.22,23.10.23,19.04.24,Nein
+52.5694145,13.3264159,Reinickendorf,Mark-Twain-Grundschule,Auguste-Viktoria-Allee 95,13403,Berlin,Auguste-Viktoria-Allee 95 13403 Berlin,Aktive Technik in Planung,Ja,31.08.22,28.06.23,,Nein
+52.5938923,13.3490579,Reinickendorf,Grundschule an der Peckwisch,Tornower Weg 26-34,13439,Berlin,Tornower Weg 26-34 13439 Berlin,Begehung durchgeführt,Ja,10.08.22,,,Nein
+52.5867246,13.3296765,Reinickendorf,Peter-Witte-Grundschule,Rathauspromenade 75,13437,Berlin,Rathauspromenade 75 13437 Berlin,Anschluss nutzbar,Ja,17.08.22,12.07.23,22.01.24,Ja
+52.5842169,13.3362995,Reinickendorf,Ringelnatz-Grundschule,Wilhelm-Gericke-Str. 7-13,13437,Berlin,Wilhelm-Gericke-Str. 7-13 13437 Berlin,Anschluss nutzbar,Ja,03.08.22,19.07.23,11.01.24,Ja

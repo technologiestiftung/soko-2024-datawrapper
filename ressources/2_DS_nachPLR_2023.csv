@@ -1,0 +1,540 @@
+LOR_KENNUNG,Anzahl_DS,Anzahl_Delikt_FD,Anzahl_Delikt_KB,PLR,PGR,BEZIRK
+09100101,252,230,22.0,Alt-Treptow,Treptow-Köpenick 1,Treptow-Köpenick
+02300419,233,232,1.0,Wrangelkiez,Kreuzberg Ost,Friedrichshain-Kreuzberg
+01300836,167,160,7.0,Humboldthain Nordwest,Gesundbrunnen,Mitte
+01100308,163,154,9.0,Charitéviertel,Zentrum,Mitte
+02500835,154,149,5.0,Stralauer Kiez,Freidrichshain Ost,Friedrichshain-Kreuzberg
+02200210,153,153,,Urbanstraße,Kreuzberg Süd,Friedrichshain-Kreuzberg
+07100102,152,142,10.0,Kalckreuthstraße,Schöneberg Nord,Tempelhof-Schöneberg
+08100206,147,142,5.0,Flughafenstraße,Neukölln,Neukölln
+02300418,146,137,9.0,Reichenberger Straße Ost,Kreuzberg Ost,Friedrichshain-Kreuzberg
+02200211,144,137,7.0,Chamissokiez,Kreuzberg Süd,Friedrichshain-Kreuzberg
+04300623,140,133,7.0,Karl-August-Platz,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+01100309,137,129,8.0,Oranienburger Straße,Zentrum,Mitte
+01100415,134,129,5.0,Invalidenstraße,Zentrum,Mitte
+07100101,134,126,8.0,Wittenbergplatz,Schöneberg Nord,Tempelhof-Schöneberg
+01100310,133,131,2.0,Alexanderplatzviertel,Zentrum,Mitte
+01401048,132,120,12.0,Leopoldplatz,Wedding,Mitte
+07200413,130,126,4.0,Cheruskerstraße,Schöneberg Süd,Tempelhof-Schöneberg
+02200213,129,129,,Graefekiez Nord,Kreuzberg Süd,Friedrichshain-Kreuzberg
+09200613,126,116,10.0,Bahnhof Schöneweide,Treptow-Köpenick 2,Treptow-Köpenick
+07100204,123,111,12.0,Barbarossaplatz,Schöneberg Nord,Tempelhof-Schöneberg
+01400942,120,113,7.0,Westliche Müllerstraße,Wedding,Mitte
+03601142,120,114,6.0,Falkplatz,Nördlicher Prenzlauer Berg,Pankow
+08100208,116,115,1.0,Körnerpark,Neukölln,Neukölln
+01401043,112,104,8.0,Antonstraße,Wedding,Mitte
+03601243,112,106,6.0,Rodenbergstraße,Nördlicher Prenzlauer Berg,Pankow
+02300417,109,106,3.0,Reichenberger Straße West,Kreuzberg Ost,Friedrichshain-Kreuzberg
+04300416,108,101,7.0,Amtsgerichtsplatz,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+07100206,108,103,5.0,Großgörschenstraße,Schöneberg Nord,Tempelhof-Schöneberg
+02200212,107,105,2.0,Graefekiez Süd,Kreuzberg Süd,Friedrichshain-Kreuzberg
+02100106,106,104,2.0,Wassertorplatz,Kreuzberg Nord,Friedrichshain-Kreuzberg
+11501341,106,104,2.0,Karlshorst Süd,Lichtenberg Süd,Lichtenberg
+02500834,105,93,12.0,Revaler Straße,Freidrichshain Ost,Friedrichshain-Kreuzberg
+02200209,105,101,4.0,Viktoriapark,Kreuzberg Süd,Friedrichshain-Kreuzberg
+03601245,104,92,12.0,Ostseestraße,Nördlicher Prenzlauer Berg,Pankow
+01400938,104,94,10.0,Kameruner Straße,Wedding,Mitte
+03400721,103,98,5.0,Florakiez,Südliches Pankow,Pankow
+08100312,100,97,3.0,Weichselplatz,Neukölln,Neukölln
+01300834,100,97,3.0,Brunnenstraße,Gesundbrunnen,Mitte
+01300733,99,84,15.0,Gesundbrunnen,Gesundbrunnen,Mitte
+01100414,99,92,7.0,Nordbahnhof,Zentrum,Mitte
+01100416,98,93,5.0,Arkonaplatz,Zentrum,Mitte
+01100311,97,94,3.0,Karl-Marx-Allee,Zentrum,Mitte
+09200715,97,97,,Wista,Treptow-Köpenick 2,Treptow-Köpenick
+03601348,97,93,4.0,Senefelderstraße,Nördlicher Prenzlauer Berg,Pankow
+02400522,97,95,2.0,Richard-Sorge-Viertel,Friedrichshain West,Friedrichshain-Kreuzberg
+11300722,95,75,20.0,Rathaus Lichtenberg,Lichtenberg Nord,Lichtenberg
+06400737,94,94,,Nikolassee,Zehlendorf Nord/Wannsee,Steglitz-Zehlendorf
+08100416,94,89,5.0,Alt-Rixdorf,Neukölln,Neukölln
+04300622,93,93,,Ernst-Reuter-Platz,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+07200409,93,87,6.0,Belziger Straße,Schöneberg Süd,Tempelhof-Schöneberg
+04501043,92,83,9.0,Preußenpark,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+09501939,92,87,5.0,Bahnhofstraße,Treptow-Köpenick 5,Treptow-Köpenick
+11400929,91,79,12.0,Weitlingkiez,Lichtenberg Mitte,Lichtenberg
+02100104,91,91,,Moritzplatz,Kreuzberg Nord,Friedrichshain-Kreuzberg
+03701660,91,88,3.0,Bötzowstraße,Südlicher Prenzlauer Berg,Pankow
+08100310,91,91,,Maybachufer,Neukölln,Neukölln
+03701554,90,89,1.0,Teutoburger Platz,Südlicher Prenzlauer Berg,Pankow
+02400623,90,84,6.0,Andreasviertel,Friedrichshain West,Friedrichshain-Kreuzberg
+05100316,88,86,2.0,Carl-Schurz-Straße,Spandau Mitte/Nord,Spandau
+08100314,87,86,1.0,Donaustraße,Neukölln,Neukölln
+07400720,87,78,9.0,Gontermannstraße,Tempelhof,Tempelhof-Schöneberg
+06100102,87,86,1.0,Schloßstraße,Steglitz,Steglitz-Zehlendorf
+02200207,87,79,8.0,Gleisdreieck,Kreuzberg Süd,Friedrichshain-Kreuzberg
+02300315,86,86,,Lausitzer Platz,Kreuzberg Ost,Friedrichshain-Kreuzberg
+04400830,86,77,9.0,Forckenbeckstraße,Wilmersdorf Süd,Charlottenburg-Wilmersdorf
+02300314,85,84,1.0,Oranienplatz,Kreuzberg Ost,Friedrichshain-Kreuzberg
+01401047,85,75,10.0,Sparrplatz,Wedding,Mitte
+07300619,85,83,2.0,Grazer Platz,Friedenau,Tempelhof-Schöneberg
+11501339,84,81,3.0,Karlshorst West,Lichtenberg Süd,Lichtenberg
+03400723,84,82,2.0,Garbátyplatz,Südliches Pankow,Pankow
+02200208,83,79,4.0,Rathaus Yorckstraße,Kreuzberg Süd,Friedrichshain-Kreuzberg
+07100103,82,72,10.0,Frobenstraße,Schöneberg Nord,Tempelhof-Schöneberg
+06100103,81,79,2.0,Markelstraße,Steglitz,Steglitz-Zehlendorf
+02500728,81,78,3.0,Samariterviertel,Freidrichshain Ost,Friedrichshain-Kreuzberg
+04300414,81,79,2.0,Schloßstraße,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+03701659,80,74,6.0,Immanuelkirchstraße,Südlicher Prenzlauer Berg,Pankow
+04501045,80,76,4.0,Schaperstraße,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+01100206,79,79,,Unter den Linden,Zentrum,Mitte
+02100101,78,76,2.0,Askanischer Platz,Kreuzberg Nord,Friedrichshain-Kreuzberg
+09501737,78,70,8.0,Alt-Friedrichshagen,Treptow-Köpenick 5,Treptow-Köpenick
+03601347,78,75,3.0,Helmholtzplatz,Nördlicher Prenzlauer Berg,Pankow
+01100313,77,66,11.0,Heine-Viertel Ost,Zentrum,Mitte
+08100418,77,77,,Hertzbergplatz,Neukölln,Neukölln
+08100417,77,73,4.0,Braunschweiger Straße,Neukölln,Neukölln
+01100312,76,65,11.0,Heine-Viertel West,Zentrum,Mitte
+03701555,76,74,2.0,Sredzkistraße,Südlicher Prenzlauer Berg,Pankow
+07300516,75,74,1.0,Odenwaldstraße,Friedenau,Tempelhof-Schöneberg
+09501838,75,72,3.0,Rahnsdorf,Treptow-Köpenick 5,Treptow-Köpenick
+09301126,75,58,17.0,Grünau,Treptow-Köpenick 3,Treptow-Köpenick
+12400720,74,74,,Frohnau West,Grüner Norden,Reinickendorf
+03701556,74,71,3.0,Kollwitzplatz,Südlicher Prenzlauer Berg,Pankow
+04501149,74,73,1.0,Nikolsburger Platz,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+12400721,73,73,,Frohnau Ost,Grüner Norden,Reinickendorf
+01100103,73,66,7.0,Lützowstraße,Zentrum,Mitte
+09200511,73,65,8.0,Griechischer Park,Treptow-Köpenick 2,Treptow-Köpenick
+08100415,73,73,,Ganghoferstraße,Neukölln,Neukölln
+04300621,72,70,2.0,Richard-Wagner-Straße,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+07200307,71,66,5.0,Bayerischer Platz,Schöneberg Süd,Tempelhof-Schöneberg
+03601244,70,68,2.0,Humannplatz,Nördlicher Prenzlauer Berg,Pankow
+12200515,70,70,,Alt-Tegel,Tegel,Reinickendorf
+06300526,70,69,1.0,Zehlendorf Mitte,Zehlendorf Süd/Lichetrfelde West,Steglitz-Zehlendorf
+08100101,70,65,5.0,Hasenheide,Neukölln,Neukölln
+05200629,69,64,5.0,Borkumer Straße,Wilhelmstadt/Staaken,Spandau
+09501736,69,69,,Hirschgarten,Treptow-Köpenick 5,Treptow-Köpenick
+02500833,69,67,2.0,Boxhagener Platz,Freidrichshain Ost,Friedrichshain-Kreuzberg
+01401044,69,66,3.0,Uferstraße,Wedding,Mitte
+03601141,69,66,3.0,Arnimplatz,Nördlicher Prenzlauer Berg,Pankow
+04300624,69,68,1.0,Savignyplatz,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+01100102,68,68,,Großer Tiergarten,Zentrum,Mitte
+02400625,68,67,1.0,Wriezener Bahnhof,Friedrichshain West,Friedrichshain-Kreuzberg
+07300618,68,64,4.0,Ceciliengärten,Friedenau,Tempelhof-Schöneberg
+02500729,68,66,2.0,Pettenkofer Straße,Freidrichshain Ost,Friedrichshain-Kreuzberg
+12400723,68,68,,Hermsdorf Ost/Waldsee,Grüner Norden,Reinickendorf
+02400624,68,66,2.0,Weberwiese,Friedrichshain West,Friedrichshain-Kreuzberg
+07300517,67,65,2.0,Perelsplatz,Friedenau,Tempelhof-Schöneberg
+03601140,67,66,1.0,Malmöer Straße,Nördlicher Prenzlauer Berg,Pankow
+08100102,66,65,1.0,Schillerpromenade Nord,Neukölln,Neukölln
+04501042,66,65,1.0,Breitscheidplatz,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+01100207,66,64,2.0,Leipziger Straße,Zentrum,Mitte
+10300733,65,65,,Alt-Biesdorf,Biesdorf,Marzahn-Hellersdorf
+12100205,65,60,5.0,Teichstraße,Reinickendorf Ost,Reinickendorf
+04500938,65,57,8.0,Hochmeisterplatz,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+02400521,64,60,4.0,Friedenstraße,Friedrichshain West,Friedrichshain-Kreuzberg
+06400839,64,62,2.0,Fischerhüttenstraße,Zehlendorf Nord/Wannsee,Steglitz-Zehlendorf
+02500832,63,60,3.0,Traveplatz,Freidrichshain Ost,Friedrichshain-Kreuzberg
+01300835,63,53,10.0,Humboldthain Süd,Gesundbrunnen,Mitte
+01300730,62,58,4.0,Drontheimer Straße,Gesundbrunnen,Mitte
+11400927,62,58,4.0,Victoriastadt,Lichtenberg Mitte,Lichtenberg
+01200629,62,58,4.0,Hansaviertel,Moabit,Mitte
+03500933,61,59,2.0,Weißer See,Südliches Weißensee,Pankow
+02500836,61,49,12.0,Stralauer Halbinsel,Freidrichshain Ost,Friedrichshain-Kreuzberg
+07200308,61,59,2.0,Volkspark (Rudolph-Wilde-Park),Schöneberg Süd,Tempelhof-Schöneberg
+06400735,61,61,,Wannsee,Zehlendorf Nord/Wannsee,Steglitz-Zehlendorf
+03400826,60,58,2.0,Tiroler Viertel,Südliches Pankow,Pankow
+07400927,58,58,,Rathaus Tempelhof,Tempelhof,Tempelhof-Schöneberg
+04300413,58,54,4.0,Klausenerplatz,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+02500727,56,55,1.0,Forckenbeckplatz,Freidrichshain Ost,Friedrichshain-Kreuzberg
+01200624,55,43,12.0,Heidestraße,Moabit,Mitte
+04501153,55,51,4.0,Babelsberger Straße,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+03400724,55,52,3.0,Wolfshagener Straße,Südliches Pankow,Pankow
+11501340,55,52,3.0,Karlshorst Nord,Lichtenberg Süd,Lichtenberg
+01401046,54,48,6.0,Nordufer,Wedding,Mitte
+03601346,54,53,1.0,Gethsemanekirche,Nördlicher Prenzlauer Berg,Pankow
+08100209,54,52,2.0,Glasower Straße,Neukölln,Neukölln
+03500934,54,49,5.0,Weißenseer Spitze,Südliches Weißensee,Pankow
+11401137,53,52,1.0,Erieseering,Lichtenberg Mitte,Lichtenberg
+04500937,53,46,7.0,Halensee,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+09502043,53,50,3.0,Dammheide,Treptow-Köpenick 5,Treptow-Köpenick
+04501151,53,52,1.0,Hildegardstraße,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+02500831,53,49,4.0,Wismarplatz,Freidrichshain Ost,Friedrichshain-Kreuzberg
+06200422,53,52,1.0,Oberhofer Platz,Lankwitz/Lichterfelde Ost,Steglitz-Zehlendorf
+02100102,53,50,3.0,Mehringplatz,Kreuzberg Nord,Friedrichshain-Kreuzberg
+03701658,52,48,4.0,Christburger Straße,Südlicher Prenzlauer Berg,Pankow
+01300732,51,43,8.0,Soldiner Straße,Gesundbrunnen,Mitte
+04501040,51,49,2.0,Hindemithplatz,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+02300316,50,48,2.0,Köpenicker Straße,Kreuzberg Ost,Friedrichshain-Kreuzberg
+11300826,50,48,2.0,Frankfurter Allee Süd,Lichtenberg Nord,Lichtenberg
+03300514,50,50,,Blankenburg,Nördliches Weißensee,Pankow
+12100101,50,37,13.0,Letteplatz,Reinickendorf Ost,Reinickendorf
+09401534,50,47,3.0,Altstadt Köpenick,Treptow-Köpenick 4,Treptow-Köpenick
+11200514,50,37,13.0,Landsberger Allee,Hohenschönhausen Süd,Lichtenberg
+01200522,49,48,1.0,Elberfelder Straße,Moabit,Mitte
+10400939,49,48,1.0,Alt-Mahlsdorf,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf
+04500936,49,45,4.0,Droysenstraße,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+11200513,49,32,17.0,Große-Leege-Straße,Hohenschönhausen Süd,Lichtenberg
+03500936,48,46,2.0,Komponistenviertel Weißensee,Südliches Weißensee,Pankow
+02100105,48,44,4.0,Prinzenstraße,Kreuzberg Nord,Friedrichshain-Kreuzberg
+03400830,48,48,,Kissingenviertel,Südliches Pankow,Pankow
+04400835,48,47,1.0,Rüdesheimer Platz,Wilmersdorf Süd,Charlottenburg-Wilmersdorf
+12500928,48,48,,Waidmannslust,Wittenau/Borsigwalde,Reinickendorf
+08100311,47,47,,Reuterplatz,Neukölln,Neukölln
+04400727,47,44,3.0,Flinsberger Platz,Wilmersdorf Süd,Charlottenburg-Wilmersdorf
+01401049,47,43,4.0,Schulstraße,Wedding,Mitte
+11300725,47,44,3.0,Nibelungenviertel,Lichtenberg Nord,Lichtenberg
+06300527,46,46,,Sundgauer Straße,Zehlendorf Süd/Lichetrfelde West,Steglitz-Zehlendorf
+04500939,46,43,3.0,Eisenzahnstraße,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+03200206,46,46,,Pastor-Niemöller-Platz,Nördliches Pankow,Pankow
+01100104,46,42,4.0,Körnerstraße,Zentrum,Mitte
+12500927,46,46,,Wittenau Nord,Wittenau/Borsigwalde,Reinickendorf
+03400827,46,45,1.0,Trelleborger Viertel,Südliches Pankow,Pankow
+03300516,46,42,4.0,Heinersdorf,Nördliches Weißensee,Pankow
+04501147,46,43,3.0,Leon-Jessel-Platz,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+04501152,45,43,2.0,Prager Platz,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+07300515,45,42,3.0,Taunusstraße,Friedenau,Tempelhof-Schöneberg
+01300731,45,42,3.0,Koloniestraße,Gesundbrunnen,Mitte
+07200412,45,40,5.0,Schöneberger Linse,Schöneberg Süd,Tempelhof-Schöneberg
+10300734,45,45,,Biesdorf Süd,Biesdorf,Marzahn-Hellersdorf
+06300633,45,45,,Augustaplatz,Zehlendorf Süd/Lichetrfelde West,Steglitz-Zehlendorf
+01400937,44,36,8.0,Afrikanische Straße,Wedding,Mitte
+03601453,44,40,4.0,Alter Schlachthof,Nördlicher Prenzlauer Berg,Pankow
+07100205,44,42,2.0,Alvenslebenstraße,Schöneberg Nord,Tempelhof-Schöneberg
+11501238,43,42,1.0,Rummelsburg,Lichtenberg Süd,Lichtenberg
+03500932,43,36,7.0,Bühringstraße,Südliches Weißensee,Pankow
+03200310,42,42,,Krugpfuhl,Nördliches Pankow,Pankow
+04300517,42,42,,Tegeler Weg,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+07200414,42,40,2.0,Hohenfriedbergstraße,Schöneberg Süd,Tempelhof-Schöneberg
+09200716,42,42,,Dörpfeldstraße West,Treptow-Köpenick 2,Treptow-Köpenick
+08100104,42,41,1.0,Wartheplatz,Neukölln,Neukölln
+06400840,42,41,1.0,Fischtal,Zehlendorf Nord/Wannsee,Steglitz-Zehlendorf
+07400721,42,38,4.0,Paradestraße,Tempelhof,Tempelhof-Schöneberg
+08100103,41,41,,Schillerpromenade Süd,Neukölln,Neukölln
+12500824,40,39,1.0,Ziekowstraße/Freie Scholle,Wittenau/Borsigwalde,Reinickendorf
+01401045,40,39,1.0,Schwedenstraße,Wedding,Mitte
+07601544,40,40,,John-Locke-Straße,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+01100101,40,38,2.0,Stülerstraße,Zentrum,Mitte
+02400520,40,39,1.0,Barnimkiez,Friedrichshain West,Friedrichshain-Kreuzberg
+06300634,40,40,,Lichterfelde West,Zehlendorf Süd/Lichetrfelde West,Steglitz-Zehlendorf
+02500726,40,39,1.0,Hausburgviertel,Freidrichshain Ost,Friedrichshain-Kreuzberg
+03601452,40,36,4.0,Velodrom,Nördlicher Prenzlauer Berg,Pankow
+02100103,39,33,6.0,Am Berlin Museum,Kreuzberg Nord,Friedrichshain-Kreuzberg
+12100103,39,32,7.0,Breitkopfbecken,Reinickendorf Ost,Reinickendorf
+04200311,39,38,1.0,Königin-Elisabeth-Straße,Charlottenburg West,Charlottenburg-Wilmersdorf
+11401034,39,39,,Tierpark,Lichtenberg Mitte,Lichtenberg
+08200623,39,36,3.0,Park am Buschkrug,Britz/Bukow,Neukölln
+08100207,38,38,,Rollberg,Neukölln,Neukölln
+01200628,38,38,,Lüneburger Straße,Moabit,Mitte
+08100419,38,37,1.0,Treptower Straße Nord,Neukölln,Neukölln
+10200524,38,28,10.0,Adele-Sandrock-Straße,Hellersdorf,Marzahn-Hellersdorf
+09100304,38,34,4.0,Baumschulenweg West,Treptow-Köpenick 1,Treptow-Köpenick
+09501940,38,38,,Güterbahnhof Köpenick,Treptow-Köpenick 5,Treptow-Köpenick
+04501041,38,36,2.0,George-Grosz-Platz,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+03500935,38,35,3.0,Behaimstraße,Südliches Weißensee,Pankow
+12601134,37,27,10.0,Märkisches Zentrum,Märkisches Viertel,Reinickendorf
+06100209,37,37,,Feuerbachstraße,Steglitz,Steglitz-Zehlendorf
+03400725,37,36,1.0,Schlosspark,Südliches Pankow,Pankow
+12100102,37,34,3.0,Hausotterplatz,Reinickendorf Ost,Reinickendorf
+10300731,36,36,,Oberfeldstraße,Biesdorf,Marzahn-Hellersdorf
+07400822,36,35,1.0,Lindenhofsiedlung,Tempelhof,Tempelhof-Schöneberg
+09401329,36,32,4.0,Kietzer Feld/Nachtheide,Treptow-Köpenick 4,Treptow-Köpenick
+06400844,36,28,8.0,Dahlem,Zehlendorf Nord/Wannsee,Steglitz-Zehlendorf
+04501044,36,35,1.0,Ludwigkirchplatz,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+06200421,35,33,2.0,Königsberger Straße,Lankwitz/Lichterfelde Ost,Steglitz-Zehlendorf
+03601450,35,35,,Volkspark Prenzlauer Berg,Nördlicher Prenzlauer Berg,Pankow
+04300619,34,34,,Alt-Lietzow,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+06100101,34,34,,Fichtenberg,Steglitz,Steglitz-Zehlendorf
+06300630,34,34,,Hindenburgdamm,Zehlendorf Süd/Lichetrfelde West,Steglitz-Zehlendorf
+09100202,34,32,2.0,Plänterwald West,Treptow-Köpenick 1,Treptow-Köpenick
+07200411,34,34,,Julius-Leber-Brücke,Schöneberg Süd,Tempelhof-Schöneberg
+04501148,34,32,2.0,Brabanter Platz,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+04300415,33,31,2.0,Lietzensee,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+07200410,33,32,1.0,Feurigstraße,Schöneberg Süd,Tempelhof-Schöneberg
+02500830,33,33,,Niederbarnimstraße,Freidrichshain Ost,Friedrichshain-Kreuzberg
+03200207,33,33,,Herthaplatz,Nördliches Pankow,Pankow
+01400940,33,27,6.0,Schillerpark,Wedding,Mitte
+11400931,32,30,2.0,Massower Straße,Lichtenberg Mitte,Lichtenberg
+06300632,32,30,2.0,Schweizer Viertel,Zehlendorf Süd/Lichetrfelde West,Steglitz-Zehlendorf
+04300620,32,29,3.0,Spreestadt,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+12200309,32,30,2.0,Scharnweberstraße,Tegel,Reinickendorf
+01200520,32,31,1.0,Bremer Straße,Moabit,Mitte
+08100521,32,29,3.0,Schulenburgpark,Neukölln,Neukölln
+03501037,32,28,4.0,Rathaus Weißensee,Südliches Weißensee,Pankow
+03100103,32,32,,Karower Chaussee,Buch,Pankow
+09200510,32,31,1.0,Helmholtz-Kiez,Treptow-Köpenick 2,Treptow-Köpenick
+01200519,32,31,1.0,Emdener Straße,Moabit,Mitte
+03501038,31,28,3.0,Hansastraße,Südliches Weißensee,Pankow
+04200310,31,28,3.0,Fürstenplatz,Charlottenburg West,Charlottenburg-Wilmersdorf
+04200309,31,30,1.0,Neu Westend,Charlottenburg West,Charlottenburg-Wilmersdorf
+10400836,31,31,,Alt-Kaulsdorf,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf
+05100315,31,29,2.0,Ackerstraße,Spandau Mitte/Nord,Spandau
+06400838,31,31,,Krumme Lanke,Zehlendorf Nord/Wannsee,Steglitz-Zehlendorf
+09300920,31,30,1.0,Dorf Altglienicke,Treptow-Köpenick 3,Treptow-Köpenick
+03601451,31,29,2.0,Anton-Saefkow-Park,Nördlicher Prenzlauer Berg,Pankow
+04300412,31,20,11.0,Schlossgarten,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+03300412,30,30,,Karow Bahnhof,Nördliches Weißensee,Pankow
+03601449,30,27,3.0,Michelangelostraße,Nördlicher Prenzlauer Berg,Pankow
+07400823,30,28,2.0,Wittekindstraße,Tempelhof,Tempelhof-Schöneberg
+06200313,30,28,2.0,Lankwitz Kirche,Lankwitz/Lichterfelde Ost,Steglitz-Zehlendorf
+04501150,30,29,1.0,Wilhelmsaue,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+07400825,29,28,1.0,Friedrich-Karl-Straße,Tempelhof,Tempelhof-Schöneberg
+06100207,29,28,1.0,Mittelstraße,Steglitz,Steglitz-Zehlendorf
+06200311,29,27,2.0,Alt-Lankwitz,Lankwitz/Lichterfelde Ost,Steglitz-Zehlendorf
+05300737,29,27,2.0,Gartenfelder Straße,Haselhorst/Siemensstadt,Spandau
+07601238,29,29,,Marienfelde Nordost,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+01200623,29,28,1.0,Stephankiez,Moabit,Mitte
+11400928,28,27,1.0,Nöldnerplatz,Lichtenberg Mitte,Lichtenberg
+07400824,28,26,2.0,Bosepark,Tempelhof,Tempelhof-Schöneberg
+01200625,28,28,,Lübecker Straße,Moabit,Mitte
+11200410,28,23,5.0,Malchower Weg,Hohenschönhausen Süd,Lichtenberg
+09200512,28,28,,Wuhlheide,Treptow-Köpenick 2,Treptow-Köpenick
+01400939,27,25,2.0,Glasgower Straße,Wedding,Mitte
+07501133,27,24,3.0,Fritz-Werner-Straße,Mariendorf,Tempelhof-Schöneberg
+06100206,27,26,1.0,Stadtpark,Steglitz,Steglitz-Zehlendorf
+09502042,27,26,1.0,Mittelheide,Treptow-Köpenick 5,Treptow-Köpenick
+06200420,27,26,1.0,Lichterfelde Süd,Lankwitz/Lichterfelde Ost,Steglitz-Zehlendorf
+03400618,27,26,1.0,Rosenthal,Südliches Pankow,Pankow
+09200818,27,26,1.0,Spindlersfeld,Treptow-Köpenick 2,Treptow-Köpenick
+11401032,27,23,4.0,Rosenfelder Ring,Lichtenberg Mitte,Lichtenberg
+11200512,27,27,,Orankesee,Hohenschönhausen Süd,Lichtenberg
+06400842,26,26,,Hüttenweg,Zehlendorf Nord/Wannsee,Steglitz-Zehlendorf
+03400828,26,21,5.0,Spiekermann Straße,Südliches Pankow,Pankow
+01200626,26,26,,Thomasiusstraße,Moabit,Mitte
+11200411,26,16,10.0,Hauptstraße,Hohenschönhausen Süd,Lichtenberg
+11300620,26,23,3.0,Fennpfuhl Ost,Lichtenberg Nord,Lichtenberg
+12100204,26,22,4.0,Schäfersee,Reinickendorf Ost,Reinickendorf
+03400722,26,25,1.0,Parkstraße,Südliches Pankow,Pankow
+05300840,25,25,,Nonnendammallee,Haselhorst/Siemensstadt,Spandau
+07501030,25,25,,Machonstraße,Mariendorf,Tempelhof-Schöneberg
+08200727,25,25,,Parchimer Allee Süd,Britz/Bukow,Neukölln
+12400722,25,25,,Hermsdorf West,Grüner Norden,Reinickendorf
+03701657,25,21,4.0,Thälmannpark,Südlicher Prenzlauer Berg,Pankow
+03400829,25,24,1.0,Arnold-Zweig-Straße,Südliches Pankow,Pankow
+09300921,24,24,,Preußen Siedlung,Treptow-Köpenick 3,Treptow-Köpenick
+11300618,24,24,,Storkower Bogen,Lichtenberg Nord,Lichtenberg
+08200726,24,24,,Hufeisensiedlung,Britz/Bukow,Neukölln
+01100205,24,23,1.0,Wilhelmstraße,Zentrum,Mitte
+09200819,24,22,2.0,Köllnische Vorstadt,Treptow-Köpenick 2,Treptow-Köpenick
+06400843,24,23,1.0,Thielallee,Zehlendorf Nord/Wannsee,Steglitz-Zehlendorf
+06100205,24,21,3.0,Südende,Steglitz,Steglitz-Zehlendorf
+04300518,24,22,2.0,Kaiserin-Augusta-Allee,Charlottenburg Zentrum,Charlottenburg-Wilmersdorf
+09200717,24,19,5.0,Dörpfeldstraße Ost,Treptow-Köpenick 2,Treptow-Köpenick
+08100105,24,23,1.0,Silbersteinstraße,Neukölln,Neukölln
+05100313,23,21,2.0,Eiswerder,Spandau Mitte/Nord,Spandau
+11300724,23,22,1.0,Roedeliusplatz,Lichtenberg Nord,Lichtenberg
+05200630,23,20,3.0,Wilhelmstadt West,Wilhelmstadt/Staaken,Spandau
+09100407,23,22,1.0,Johannisthal West,Treptow-Köpenick 1,Treptow-Köpenick
+08401243,22,22,,Alt-Rudow,Buckow Nord/Rudow,Neukölln
+03300411,22,21,1.0,Karow Nord,Nördliches Weißensee,Pankow
+07601546,22,22,,Franziusweg,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+05100314,22,20,2.0,Kurstraße,Spandau Mitte/Nord,Spandau
+11300721,22,19,3.0,Herzbergstraße,Lichtenberg Nord,Lichtenberg
+10200420,22,9,13.0,Gut Hellersdorf,Hellersdorf,Marzahn-Hellersdorf
+09100409,22,22,,Landschaftspark Adlershof,Treptow-Köpenick 1,Treptow-Köpenick
+10400938,22,22,,Mahlsdorf Nord,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf
+12200412,22,21,1.0,Waldidyll/Flughafensee,Tegel,Reinickendorf
+07501134,22,19,3.0,Hundsteinweg,Mariendorf,Tempelhof-Schöneberg
+04501146,22,21,1.0,Barstraße,Wilmersdorf Zentrum,Charlottenburg-Wilmersdorf
+03601139,22,19,3.0,Norweger Viertel,Nördlicher Prenzlauer Berg,Pankow
+12500926,22,18,4.0,Wittenau Süd,Wittenau/Borsigwalde,Reinickendorf
+01200517,21,20,1.0,Huttenkiez,Moabit,Mitte
+07501031,21,20,1.0,Eisenacher Straße,Mariendorf,Tempelhof-Schöneberg
+08300934,21,20,1.0,Gropiusstadt Nord-West,Gropiusstadt,Neukölln
+09301024,21,21,,Falkenberg,Treptow-Köpenick 3,Treptow-Köpenick
+09100408,21,14,7.0,Johannisthal Ost,Treptow-Köpenick 1,Treptow-Köpenick
+11401136,21,19,2.0,Volkradstraße,Lichtenberg Mitte,Lichtenberg
+07501032,20,18,2.0,Imbrosweg,Mariendorf,Tempelhof-Schöneberg
+11100309,20,12,8.0,Mühlengrund,Hohenschönhausen Nord,Lichtenberg
+11100307,20,20,,Zingster Straße Ost,Hohenschönhausen Nord,Lichtenberg
+04100101,20,15,5.0,Jungfernheide/Plötzensee,Charlottenburg Nord,Charlottenburg-Wilmersdorf
+05300736,20,20,,Zitadellenweg,Haselhorst/Siemensstadt,Spandau
+04200308,20,20,,Branitzer Platz,Charlottenburg West,Charlottenburg-Wilmersdorf
+08401244,20,20,,Waßmannsdorfer Chaussee,Buckow Nord/Rudow,Neukölln
+04400832,20,18,2.0,Breite Straße,Wilmersdorf Süd,Charlottenburg-Wilmersdorf
+11401135,19,19,,Dolgenseestraße,Lichtenberg Mitte,Lichtenberg
+10200629,19,18,1.0,Teterower Ring,Hellersdorf,Marzahn-Hellersdorf
+09300923,19,19,,Kölner Viertel,Treptow-Köpenick 3,Treptow-Köpenick
+12500825,19,19,,Borsigwalde,Wittenau/Borsigwalde,Reinickendorf
+10300732,19,17,2.0,Buckower Ring,Biesdorf,Marzahn-Hellersdorf
+08200622,19,18,1.0,Jahnstraße,Britz/Bukow,Neukölln
+05100312,19,14,5.0,Eckschanze,Spandau Mitte/Nord,Spandau
+03200309,18,18,,Eddastraße,Nördliches Pankow,Pankow
+06100210,18,18,,Bismarckstraße,Steglitz,Steglitz-Zehlendorf
+09401433,18,18,,Allende II,Treptow-Köpenick 4,Treptow-Köpenick
+05400943,18,18,,Jägerallee,Gatow/Gladow,Spandau
+12601133,18,17,1.0,Treuenbrietzener Straße,Märkisches Viertel,Reinickendorf
+09100305,18,17,1.0,Baumschulenweg Ost,Treptow-Köpenick 1,Treptow-Köpenick
+11300619,18,12,6.0,Rudolf-Seiffert-Park,Lichtenberg Nord,Lichtenberg
+11100204,18,11,7.0,Falkenberg West,Hohenschönhausen Nord,Lichtenberg
+11300616,18,15,3.0,Hohenschönhausener Straße,Lichtenberg Nord,Lichtenberg
+08200833,18,18,,Buckow Ost,Britz/Bukow,Neukölln
+06300528,17,17,,Teltower Damm,Zehlendorf Süd/Lichetrfelde West,Steglitz-Zehlendorf
+03200308,17,17,,Nisbléstraße,Nördliches Pankow,Pankow
+07400826,17,17,,Marienhöhe,Tempelhof,Tempelhof-Schöneberg
+06400736,17,17,,Düppel,Zehlendorf Nord/Wannsee,Steglitz-Zehlendorf
+04400834,17,17,,Binger Straße,Wilmersdorf Süd,Charlottenburg-Wilmersdorf
+05100105,17,14,3.0,Amorbacher Weg,Spandau Mitte/Nord,Spandau
+11401033,17,16,1.0,Gensinger Straße,Lichtenberg Mitte,Lichtenberg
+08300935,17,14,3.0,Gropiusstadt Süd-West,Gropiusstadt,Neukölln
+06100208,17,16,1.0,Bergstraße,Steglitz,Steglitz-Zehlendorf
+09401431,17,15,2.0,Allende I,Treptow-Köpenick 4,Treptow-Köpenick
+04400726,17,16,1.0,Bismarckallee,Wilmersdorf Süd,Charlottenburg-Wilmersdorf
+03200205,16,16,,Uhlandstraße,Nördliches Pankow,Pankow
+05100104,16,14,2.0,Maselake,Spandau Mitte/Nord,Spandau
+06400841,16,16,,Zehlendorf Eiche,Zehlendorf Nord/Wannsee,Steglitz-Zehlendorf
+10100208,16,10,6.0,Bürgerpark,Marzahn,Marzahn-Hellersdorf
+09100203,16,13,3.0,Plänterwald Ost,Treptow-Köpenick 1,Treptow-Köpenick
+06100204,16,15,1.0,Munsterdamm,Steglitz,Steglitz-Zehlendorf
+03400619,16,16,,Wilhelmsruh,Südliches Pankow,Pankow
+01200518,16,16,,Beusselkiez,Moabit,Mitte
+04200207,16,16,,Eichkamp,Charlottenburg West,Charlottenburg-Wilmersdorf
+10100209,16,4,12.0,Lea-Grundig-Straße,Marzahn,Marzahn-Hellersdorf
+11300617,16,16,,Fennpfuhlpark,Lichtenberg Nord,Lichtenberg
+07501029,16,16,,Ringstraße,Mariendorf,Tempelhof-Schöneberg
+09301025,16,16,,Alt-Bohnsdorf,Treptow-Köpenick 3,Treptow-Köpenick
+05300841,16,16,,Siemensdamm,Haselhorst/Siemensstadt,Spandau
+03100101,16,15,1.0,Bucher Forst,Buch,Pankow
+09401635,16,15,1.0,Müggelheim,Treptow-Köpenick 4,Treptow-Köpenick
+06300524,15,15,,Berlepschstraße,Zehlendorf Süd/Lichetrfelde West,Steglitz-Zehlendorf
+06200423,15,15,,Schütte-Lanz-Straße,Lankwitz/Lichterfelde Ost,Steglitz-Zehlendorf
+11400930,15,12,3.0,Zachertstraße,Lichtenberg Mitte,Lichtenberg
+06300629,15,14,1.0,Botanischer Garten,Zehlendorf Süd/Lichetrfelde West,Steglitz-Zehlendorf
+05100210,15,11,4.0,Germersheimer Platz,Spandau Mitte/Nord,Spandau
+03100102,15,15,,Klinikum Buch,Buch,Pankow
+05100209,15,13,2.0,Westerwaldstraße,Spandau Mitte/Nord,Spandau
+09300922,15,14,1.0,Kosmos Viertel,Treptow-Köpenick 3,Treptow-Köpenick
+10100206,15,6,9.0,Wuhletalstraße,Marzahn,Marzahn-Hellersdorf
+10100312,15,14,1.0,Springpfuhl,Marzahn,Marzahn-Hellersdorf
+03400620,15,15,,Schönholz,Südliches Pankow,Pankow
+11100308,15,11,4.0,Zingster Straße West,Hohenschönhausen Nord,Lichtenberg
+12601032,14,14,,Rollbergesiedlung,Märkisches Viertel,Reinickendorf
+08100313,14,14,,Bouchéstraße,Neukölln,Neukölln
+12200308,14,13,1.0,Mellerbogen,Tegel,Reinickendorf
+11200515,14,11,3.0,Weiße Taube,Hohenschönhausen Süd,Lichtenberg
+08200624,14,13,1.0,Tempelhofer Weg,Britz/Bukow,Neukölln
+05200631,14,13,1.0,Wilhelmstadt Ost,Wilhelmstadt/Staaken,Spandau
+06200314,14,12,2.0,Kaiser-Wilhelm-Straße,Lankwitz/Lichterfelde Ost,Steglitz-Zehlendorf
+10200423,14,8,6.0,Böhlener Straße,Hellersdorf,Marzahn-Hellersdorf
+11100203,13,7,6.0,Falkenberg Ost,Hohenschönhausen Nord,Lichtenberg
+10100210,13,11,2.0,Marzahner Promenade,Marzahn,Marzahn-Hellersdorf
+06200315,13,12,1.0,Gallwitzallee,Lankwitz/Lichterfelde Ost,Steglitz-Zehlendorf
+12200310,13,12,1.0,Klixstraße,Tegel,Reinickendorf
+12400619,13,13,,Heiligensee,Grüner Norden,Reinickendorf
+12400618,13,13,,Heiligensee Nord,Grüner Norden,Reinickendorf
+12400617,13,13,,Alt-Heiligensee,Grüner Norden,Reinickendorf
+03400831,12,12,,Pankower Tor,Südliches Pankow,Pankow
+08301037,12,12,,Gropiusstadt Süd-Ost,Gropiusstadt,Neukölln
+10100101,12,7,5.0,Marzahn West,Marzahn,Marzahn-Hellersdorf
+06200312,12,12,,Komponistenviertel Lankwitz,Lankwitz/Lichterfelde Ost,Steglitz-Zehlendorf
+10100315,12,7,5.0,Bärenstein,Marzahn,Marzahn-Hellersdorf
+07601339,12,12,,Tirschenreuther Ring West,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+10200418,12,10,2.0,Kyritzer Straße,Hellersdorf,Marzahn-Hellersdorf
+05100102,12,8,4.0,Am Forstacker,Spandau Mitte/Nord,Spandau
+08200831,12,11,1.0,Buckow West,Britz/Bukow,Neukölln
+10100316,12,7,5.0,Landsberger Tor,Marzahn,Marzahn-Hellersdorf
+07601236,12,9,3.0,Marienfelder Allee Nordwest,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+08401138,12,12,,Goldhähnchenweg,Buckow Nord/Rudow,Neukölln
+12601235,12,10,2.0,Dannenwalder Weg,Märkisches Viertel,Reinickendorf
+05100208,12,11,1.0,Im Spektefeld,Spandau Mitte/Nord,Spandau
+05300735,11,11,,Haveleck,Haselhorst/Siemensstadt,Spandau
+10200419,11,5,6.0,Havelländer Ring,Hellersdorf,Marzahn-Hellersdorf
+07601443,11,11,,Töpchiner Weg,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+10200627,11,10,1.0,Am Kienberg,Hellersdorf,Marzahn-Hellersdorf
+01200521,11,11,,Zwinglistraße,Moabit,Mitte
+10200421,11,11,,Helle Mitte,Hellersdorf,Marzahn-Hellersdorf
+12200413,11,9,2.0,Tegel Süd,Tegel,Reinickendorf
+11100205,11,8,3.0,Wartenberg Süd,Hohenschönhausen Nord,Lichtenberg
+12500930,10,10,,Wittenau Mitte,Wittenau/Borsigwalde,Reinickendorf
+10100207,10,5,5.0,Ahrensfelder Berge,Marzahn,Marzahn-Hellersdorf
+05100317,10,10,,Freiheit,Spandau Mitte/Nord,Spandau
+09501941,10,10,,Friedrichshagener Straße,Treptow-Köpenick 5,Treptow-Köpenick
+08200728,10,9,1.0,Ortolanweg,Britz/Bukow,Neukölln
+05200527,10,8,2.0,Maulbeerallee,Wilhelmstadt/Staaken,Spandau
+04400729,9,9,,Hundekehle,Wilmersdorf Süd,Charlottenburg-Wilmersdorf
+08100520,9,9,,Weiße Siedlung,Neukölln,Neukölln
+08401139,9,9,,Vogelviertel Süd,Buckow Nord/Rudow,Neukölln
+09200614,9,7,2.0,Oberspree,Treptow-Köpenick 2,Treptow-Köpenick
+06200316,9,9,,Belßstraße,Lankwitz/Lichterfelde Ost,Steglitz-Zehlendorf
+08301036,9,9,,Gropiusstadt Mitte,Gropiusstadt,Neukölln
+10200630,9,9,,Cecilienplatz,Hellersdorf,Marzahn-Hellersdorf
+07601545,9,9,,Nahariyastraße,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+04100102,9,9,,Paul-Hertz-Siedlung,Charlottenburg Nord,Charlottenburg-Wilmersdorf
+10200417,9,4,5.0,Zossener Straße,Hellersdorf,Marzahn-Hellersdorf
+10200628,9,7,2.0,Neue Grottkauer Straße,Hellersdorf,Marzahn-Hellersdorf
+05400942,9,9,,Alt-Gatow,Gatow/Gladow,Spandau
+07601341,9,9,,Diedersdorfer Weg,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+05200634,9,9,,Börnicker Straße,Wilhelmstadt/Staaken,Spandau
+10100311,9,9,,Marzahner Chaussee,Marzahn,Marzahn-Hellersdorf
+10100102,8,3,5.0,Rosenbecker Straße,Marzahn,Marzahn-Hellersdorf
+11100101,8,8,,Dörfer Malchow-Wartenberg,Hohenschönhausen Nord,Lichtenberg
+10400837,8,8,,Kaulsdorf Süd,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf
+04400833,8,8,,Schlangenbader Straße,Wilmersdorf Süd,Charlottenburg-Wilmersdorf
+05200528,8,7,1.0,Weinmeisterhornweg,Wilhelmstadt/Staaken,Spandau
+05300839,8,7,1.0,Rohrdamm,Haselhorst/Siemensstadt,Spandau
+03200204,8,8,,Blankenfelde,Nördliches Pankow,Pankow
+05200423,8,6,2.0,Magistratsweg,Wilhelmstadt/Staaken,Spandau
+04400728,8,7,1.0,Hagenplatz,Wilmersdorf Süd,Charlottenburg-Wilmersdorf
+12100206,8,6,2.0,Humboldtstraße,Reinickendorf Ost,Reinickendorf
+07601237,8,7,1.0,Kirchstraße,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+11300723,8,8,,Bornitzstraße,Lichtenberg Nord,Lichtenberg
+10100104,8,7,1.0,Golliner Straße,Marzahn,Marzahn-Hellersdorf
+12500929,8,8,,Lübars,Wittenau/Borsigwalde,Reinickendorf
+12601031,7,6,1.0,Lübarser Straße,Märkisches Viertel,Reinickendorf
+07501135,7,7,,Birnhornweg,Mariendorf,Tempelhof-Schöneberg
+08401246,7,7,,Waltersdorfer Chaussee Ost,Buckow Nord/Rudow,Neukölln
+10100313,7,6,1.0,Alt-Marzahn,Marzahn,Marzahn-Hellersdorf
+05100207,7,7,,An der Tränke,Spandau Mitte/Nord,Spandau
+10100103,7,5,2.0,Wittenberger Straße,Marzahn,Marzahn-Hellersdorf
+07601340,7,6,1.0,Tirschenreuther Ring Ost,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+06300525,7,7,,Zehlendorf Süd,Zehlendorf Süd/Lichetrfelde West,Steglitz-Zehlendorf
+11100206,7,1,6.0,Wartenberg Nord,Hohenschönhausen Nord,Lichtenberg
+05100103,7,5,2.0,Mertensstraße,Spandau Mitte/Nord,Spandau
+10100314,7,4,3.0,Auersbergstraße,Marzahn,Marzahn-Hellersdorf
+11100102,7,7,,Dorf Falkenberg,Hohenschönhausen Nord,Lichtenberg
+12200307,7,7,,Reinickes Hof,Tegel,Reinickendorf
+05100101,7,6,1.0,Hakenfelde Nord,Spandau Mitte/Nord,Spandau
+04200204,7,7,,Angerburger Allee,Charlottenburg West,Charlottenburg-Wilmersdorf
+10200422,7,2,5.0,Hellersdorfer Promenade,Hellersdorf,Marzahn-Hellersdorf
+08200832,6,6,,Buckow Mitte,Britz/Bukow,Neukölln
+05400945,6,6,,Kafkastraße,Gatow/Gladow,Spandau
+10100205,6,6,,Gewerbegebiet Bitterfelder Straße,Marzahn,Marzahn-Hellersdorf
+05400944,6,6,,Kladower Damm,Gatow/Gladow,Spandau
+01400941,6,5,1.0,Londoner Straße,Wedding,Mitte
+08200725,6,6,,Mohriner Allee Nord,Britz/Bukow,Neukölln
+04200206,6,5,1.0,Kranzallee,Charlottenburg West,Charlottenburg-Wilmersdorf
+12601236,6,6,,Schorfheidestraße,Märkisches Viertel,Reinickendorf
+08401242,6,6,,Zittauer Straße,Buckow Nord/Rudow,Neukölln
+07601442,6,6,,Kettinger Straße,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+08200730,5,5,,Handwerker-Siedlung,Britz/Bukow,Neukölln
+04400831,5,5,,Messelpark,Wilmersdorf Süd,Charlottenburg-Wilmersdorf
+06200317,5,5,,Lankwitz Süd,Lankwitz/Lichterfelde Ost,Steglitz-Zehlendorf
+06200419,5,4,1.0,Thermometersiedlung,Lankwitz/Lichterfelde Ost,Steglitz-Zehlendorf
+10400940,5,5,,Elsensee,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf
+05200421,5,5,,Spandauer Straße,Wilhelmstadt/Staaken,Spandau
+05200418,5,5,,Isenburger Weg,Wilhelmstadt/Staaken,Spandau
+05200526,5,5,,Rudolf-Wissell-Großsiedlung,Wilhelmstadt/Staaken,Spandau
+06300631,5,5,,Goerzwerke,Zehlendorf Süd/Lichetrfelde West,Steglitz-Zehlendorf
+07400928,5,5,,Germaniagarten,Tempelhof,Tempelhof-Schöneberg
+04200205,5,5,,Flatowallee,Charlottenburg West,Charlottenburg-Wilmersdorf
+07601547,4,4,,Horstwalder Straße,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+10400941,4,4,,Pilgramer Straße,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf
+05200633,4,4,,Graetschelsteig,Wilhelmstadt/Staaken,Spandau
+01200627,4,3,1.0,Zillesiedlung,Moabit,Mitte
+03300413,4,4,,Karow Ost,Nördliches Weißensee,Pankow
+10400835,4,4,,Kaulsdorf Nord,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf
+05200632,4,4,,Tiefwerder,Wilhelmstadt/Staaken,Spandau
+05100206,4,3,1.0,Griesingerstraße,Spandau Mitte/Nord,Spandau
+10200525,4,1,3.0,Schleipfuhl,Hellersdorf,Marzahn-Hellersdorf
+08401245,4,3,1.0,Frauenviertel,Buckow Nord/Rudow,Neukölln
+10200526,3,2,1.0,Boulevard Kastanienallee,Hellersdorf,Marzahn-Hellersdorf
+05200525,3,2,1.0,Pillnitzer Weg,Wilhelmstadt/Staaken,Spandau
+04200203,3,3,,Olympiagelände,Charlottenburg West,Charlottenburg-Wilmersdorf
+12200411,3,2,1.0,Schumacher-Quartier,Tegel,Reinickendorf
+09301228,3,3,,Schmöckwitz/Rauchfangswerder,Treptow-Köpenick 3,Treptow-Köpenick
+07601548,3,3,,Wittelsbacherstraße,Marienfelde/Lichtenrade,Tempelhof-Schöneberg
+05200420,3,3,,Staakener Straße,Wilhelmstadt/Staaken,Spandau
+09401330,3,3,,Wendenschloß,Treptow-Köpenick 4,Treptow-Köpenick
+09100306,3,3,,Späthsfelde,Treptow-Köpenick 1,Treptow-Köpenick
+08200729,2,2,,Britzer Garten,Britz/Bukow,Neukölln
+05100211,2,2,,An der Kappe,Spandau Mitte/Nord,Spandau
+08401241,2,2,,Blumenviertel,Buckow Nord/Rudow,Neukölln
+05200419,2,2,,Am Heideberg,Wilhelmstadt/Staaken,Spandau
+09401432,2,2,,Siedlung Kämmereiheide,Treptow-Köpenick 4,Treptow-Köpenick
+12400616,2,2,,Konradshöhe/Tegelort,Grüner Norden,Reinickendorf
+03300517,2,2,,Märchenland,Nördliches Weißensee,Pankow
+05200524,2,2,,Döberitzer Weg,Wilhelmstadt/Staaken,Spandau
+03300515,1,1,,Blankenburger Süden,Nördliches Weißensee,Pankow
+08401140,1,1,,Vogelviertel Nord,Buckow Nord/Rudow,Neukölln
+12200414,1,1,,TXL,Tegel,Reinickendorf
+05200422,1,1,,Werkstraße,Wilhelmstadt/Staaken,Spandau
+09301227,1,1,,Karolinenhof,Treptow-Köpenick 3,Treptow-Köpenick
